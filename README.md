@@ -3,7 +3,9 @@
 # ┏━━━━━━━━━━✦❘༻༺❘✦━━━━━━━━━━┓
 
 
-wip
+<img width="2048" height="2048" alt="Image" src="https://github.com/user-attachments/assets/aa35da93-317e-46f5-af38-a5d7f0279cce" />
+
+Medic Ingame Portrait by @Snaxley
 
 
 # ┗━━━━━━━━━━✦❘༻༺❘✦━━━━━━━━━━┛
