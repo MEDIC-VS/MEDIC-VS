@@ -3,7 +3,7 @@
 # ┏━━━━━━━━━━✦❘༻༺❘✦━━━━━━━━━━┓
 
 
-<img width="1200" height="1600" alt="Image" src="https://github.com/user-attachments/assets/aa35da93-317e-46f5-af38-a5d7f0279cce" />
+<img width="1050" height="1550" alt="Image" src="https://github.com/user-attachments/assets/aa35da93-317e-46f5-af38-a5d7f0279cce" />
 
 Medic Ingame Portrait by @Snaxley
 
